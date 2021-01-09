@@ -31,4 +31,5 @@ for i in range(0,20):
 
         print(f"between{i}*****{persons[i]}and******* {j}{persons[j]}")
         jaccardc=minimumsum/totalsum
+
         print(jaccardc)
