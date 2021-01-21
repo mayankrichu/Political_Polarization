@@ -4,7 +4,7 @@ import re
 persons= ['DeShobhaa','mynameswatik','drusawasthi','netshrink','SattarFarooqui','Kaviraj_AFC','ipsvipul_','KPCentralDiv','UmmeSumbulaZuha','FaaridZaeem','sairamogirala', 'parimalaloke', 'libertariandesi', 'Sanjay_Dixit', 'RiseofBurnol', 'TheSkandar','IAnnapurnna','MahaveerVJ','shruttitandon','Sweet_Honeygal' ]
 
 
-def count_mention(file):
+def count_mention(persons):
     x=[]
     table=[]
     wordcount=[]
